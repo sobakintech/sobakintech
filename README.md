@@ -5,3 +5,4 @@ I'm Sobakin (AKA @sobakinmontazer). I am a russian YouTuber and also a Python, H
 - 🔭 I’m currently working on [Golden Strawberry mod](https://github.com/sobakinmontazer/GoldenStrawberry/)
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact: I'm a dog 🦴
+- 📧 Email: sobakinmontazer@gmail.com
