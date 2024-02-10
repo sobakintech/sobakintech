@@ -6,3 +6,4 @@ I'm Sobakin (AKA @sobakinmontazer). I am a russian YouTuber and also a Python, H
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact: I'm a dog 🦴
 - 📧 Email: sobakinmontazer@gmail.com
+- 🌲 Socials: https://linktr.ee/sobakinmontazer
