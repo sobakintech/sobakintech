@@ -2,4 +2,4 @@
 I'm SobakinTech. I am a Python, HTML, and Java developer.
 
 🕸️ Website: <br/>
-🚫 AmITermed: https://amitermed.com/YQL5fg
+📲 Socials: https://linktr.ee/sobakintech
